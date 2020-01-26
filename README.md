@@ -1,1 +1,1 @@
-# oceans-rpg-script
+# MineLynx - Server Script for Minecraft 
